@@ -6,7 +6,7 @@ class pro2{
         String Name = sc.nextLine();
         int age = sc.nextInt();
         sc.nextLine();
-        String add = sc.next();
+        String add = sc.nextLine();
         System.out.println("Name : " +Name);
          System.out.println("Age : " +age);
           System.out.println("Add : " +add);
